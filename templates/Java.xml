@@ -1,0 +1,24 @@
+<templateSet group="Java">
+  <template name="data" value="import lombok.AllArgsConstructor;&#10;import lombok.Builder;&#10;import lombok.Data;&#10;import lombok.NoArgsConstructor;&#10;&#10;@Data&#10;@NoArgsConstructor&#10;@AllArgsConstructor&#10;@Builder" description="" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="dtest" value="@DisplayName(&quot;$name$&quot;)&#10;@Test&#10;void  $method_name$()&#10;{&#10;    $inner_text$&#10;}" description="" toReformat="false" toShortenFQNames="true">
+    <variable name="name" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="method_name" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="inner_text" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="wmp" value="@$obejct$(&quot;$url$&quot;)&#10;public $type$ $methodName$&#10;{&#10;    return ;&#10;}" description="Web Method Mapping" toReformat="false" toShortenFQNames="true">
+    <variable name="obejct" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="url" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="type" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="methodName" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+</templateSet>
