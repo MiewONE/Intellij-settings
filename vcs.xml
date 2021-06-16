@@ -18,6 +18,10 @@
           <option name="url" value="https://github.com/thecodinglive/fastcampus-example.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/MiewONE/fastcampus-example.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="E:\gitStudy" />
