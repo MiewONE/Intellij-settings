@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="1104" />
     <option name="newTranslationDialogY" value="651" />
     <histories>
+      <item value="Deprecated" />
       <item value="익명" />
       <item value="declaration" />
       <item value="sweet potato" />
@@ -20,7 +21,7 @@
     <option name="languageScores">
       <map>
         <entry key="ENGLISH" value="1" />
-        <entry key="KOREAN" value="1" />
+        <entry key="KOREAN" value="2" />
       </map>
     </option>
   </component>
