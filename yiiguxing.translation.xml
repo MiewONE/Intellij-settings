@@ -1,9 +1,10 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="598" />
+    <option name="newTranslationDialogWidth" value="596" />
     <option name="newTranslationDialogX" value="1104" />
     <option name="newTranslationDialogY" value="651" />
     <histories>
+      <item value="익명" />
       <item value="declaration" />
       <item value="sweet potato" />
       <item value="sweet potat" />
@@ -16,8 +17,14 @@
       <item value="weather" />
       <item value="'Basic' attribute type should not be a container" />
     </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="ENGLISH" value="1" />
+        <entry key="KOREAN" value="1" />
+      </map>
+    </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1620397749536" />
+    <option name="lastTrimTime" value="1625758408329" />
   </component>
 </application>
