@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="1104" />
     <option name="newTranslationDialogY" value="651" />
     <histories>
+      <item value="attendants" />
       <item value="Expression statement is not assignment or call" />
       <item value="Deprecated" />
       <item value="익명" />
@@ -21,7 +22,7 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="1" />
+        <entry key="ENGLISH" value="2" />
         <entry key="KOREAN" value="3" />
       </map>
     </option>
