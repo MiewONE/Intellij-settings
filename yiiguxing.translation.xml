@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="1104" />
     <option name="newTranslationDialogY" value="651" />
     <histories>
+      <item value="Expression statement is not assignment or call" />
       <item value="Deprecated" />
       <item value="익명" />
       <item value="declaration" />
@@ -21,11 +22,11 @@
     <option name="languageScores">
       <map>
         <entry key="ENGLISH" value="1" />
-        <entry key="KOREAN" value="2" />
+        <entry key="KOREAN" value="3" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1625758408329" />
+    <option name="lastTrimTime" value="1626579517505" />
   </component>
 </application>
