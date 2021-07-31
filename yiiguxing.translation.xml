@@ -1,9 +1,11 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="594" />
+    <option name="newTranslationDialogWidth" value="592" />
     <option name="newTranslationDialogX" value="1104" />
     <option name="newTranslationDialogY" value="651" />
     <histories>
+      <item value="region" />
+      <item value="re" />
       <item value="발표자" />
       <item value="attendants" />
       <item value="Expression statement is not assignment or call" />
@@ -24,11 +26,11 @@
     <option name="languageScores">
       <map>
         <entry key="ENGLISH" value="3" />
-        <entry key="KOREAN" value="4" />
+        <entry key="KOREAN" value="5" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1626579517505" />
+    <option name="lastTrimTime" value="1627698346543" />
   </component>
 </application>
