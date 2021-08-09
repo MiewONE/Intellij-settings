@@ -1,10 +1,17 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
-    <option name="newTranslationDialogWidth" value="590" />
+    <option name="newTranslationDialogWidth" value="586" />
     <option name="newTranslationDialogX" value="1104" />
     <option name="newTranslationDialogY" value="651" />
     <histories>
+      <item value="초대장" />
+      <item value="constitutor" />
+      <item value="조직자" />
+      <item value="organizer" />
+      <item value="주최자" />
+      <item value="초대" />
+      <item value="초대자" />
       <item value="새로운 기능" />
       <item value="기능" />
       <item value="function" />
@@ -30,8 +37,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="5" />
-        <entry key="KOREAN" value="7" />
+        <entry key="ENGLISH" value="10" />
+        <entry key="KOREAN" value="12" />
       </map>
     </option>
   </component>
