@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="1104" />
     <option name="newTranslationDialogY" value="651" />
     <histories>
+      <item value="거절" />
       <item value="초대받은" />
       <item value="초대장" />
       <item value="constitutor" />
@@ -38,8 +39,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="11" />
-        <entry key="KOREAN" value="13" />
+        <entry key="ENGLISH" value="12" />
+        <entry key="KOREAN" value="14" />
       </map>
     </option>
   </component>
