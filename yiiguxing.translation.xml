@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="1104" />
     <option name="newTranslationDialogY" value="651" />
     <histories>
+      <item value="Contents of array 'tsz' are written to, but never read" />
       <item value="팀에서 나가다" />
       <item value="나가다" />
       <item value="나가기" />
@@ -44,11 +45,11 @@
     <option name="languageScores">
       <map>
         <entry key="ENGLISH" value="12" />
-        <entry key="KOREAN" value="15" />
+        <entry key="KOREAN" value="16" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1628271053368" />
+    <option name="lastTrimTime" value="1628920342505" />
   </component>
 </application>
